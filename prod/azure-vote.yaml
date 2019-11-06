@@ -77,7 +77,7 @@ spec:
         "beta.kubernetes.io/os": linux
       containers:
         - name: azure-vote-front
-          image: dawg89cr.azurecr.io/azurevotingappredis:7542
+          image: dawg89cr.azurecr.io/azurevotingappredis:7546
           resources:
             requests:
               cpu: 100m
